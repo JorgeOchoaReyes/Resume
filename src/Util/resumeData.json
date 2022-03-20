@@ -16,34 +16,7 @@
     },
     "website": "http://www.timbakerdev.com", 
     "github": "https://github.com/JorgeOchoaReyes",
-    "resumedownload": "https://docs.google.com/document/d/1KAVRogLwFS-v2IGJgMDSVmDf7GiV0CaqmNRMOezEGZc/edit?usp=sharing",
-    "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
-      }
-    ]
+    "resumedownload": "https://docs.google.com/document/d/1KAVRogLwFS-v2IGJgMDSVmDf7GiV0CaqmNRMOezEGZc/edit?usp=sharing"
   },
   "resume": {
     "skillmessage": "Research Papers: ",
@@ -113,7 +86,7 @@
       {
         "title": "Dota 2 Hero Archive",
         "category": "Full data on all 121 dota Heroes for competitive dota 2 players.",
-        "image": "Dota2.jpg",
+        "image": "dota2.jpg",
         "url": "https://github.com/JorgeOchoaReyes/Dota2_Hero_Info"
       },       
       {
@@ -123,18 +96,6 @@
         "url": "https://github.com/cscifresnostate/ClubWebSite"
       }
 
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
     ]
   }
 }

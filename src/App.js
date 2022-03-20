@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+import jsonData from './Util/resumeData.json';
 
 class App extends Component {
 
@@ -23,24 +24,25 @@ class App extends Component {
 
   }
 
-  getResumeData(){
+  getResumeData() {
     $.ajax({
-      url:'/resumeData.json',
-      dataType:'json',
+      url: "./resumeData.json",
+      dataType: "json",
       cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
+      success: function(data) {
+        this.setState({ resumeData: data });
       }.bind(this),
-      error: function(xhr, status, err){
+      error: function(xhr, status, err) {
         console.log(err);
         alert(err);
       }
     });
   }
 
-  componentDidMount(){
+  componentDidMount() {
     this.getResumeData();
   }
+
 
   render() {
     return (

@@ -16,7 +16,7 @@ class Header extends Component {
     return (
       <header id="home">
 
-      <nav id="nav-wrap">
+      {/* <nav id="nav-wrap">
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -29,7 +29,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
-      </nav>
+      </nav> */}
 
       <div className="row banner">
          <div className="banner-text" style={{backgroundColor: "rgba(0, 0, 0, 0.75)"}}>
