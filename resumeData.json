@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Jorge Ochoa-Reyes",
+    "occupation": "Student/Programer",
+    "description": " ",
+    "image": "profilepic.jpg",
+    "bio": "I enjoy programming and am excited to always learn new technologies! I am currently learning VR development in Unity with C# and hope to create a personal project using React, Graphql, URQL, Postgreql, Redis, and Nodejs.",
+    "contactmessage": "Best way to contact me would be email!, I check it daily, otherwise phone works as well.",
+    "email": "jorgeochoareyes@gmail.com",
+    "phone": "559-960-0424",
+    "address": {
+      "street": "3625 North Pleasant Ave. Apt 204",
+      "city": "Fresno",
+      "state": "California",
+      "zip": "93705"
+    },
+    "website": "http://www.timbakerdev.com", 
+    "github": "https://github.com/JorgeOchoaReyes",
+    "resumedownload": "https://docs.google.com/document/d/1KAVRogLwFS-v2IGJgMDSVmDf7GiV0CaqmNRMOezEGZc/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Research Papers: ",
+    "education": [
+      {
+        "school": "California State University of Fresno",
+        "degree": "Bachelors Degree",
+        "graduated": "May 2022",
+        "description": "Computer Sciene Club Officer, and Google Developers Club Vice President"
+      }
+    ],
+    "work": [
+      {
+        "company": "NASA Minds Artemis",
+        "title": "",
+        "link": "https://github.com/JorgeOchoaReyes/NASA-MINDS-2021", 
+        "years": " Technology: Unity VR, C#",
+        "description": "A virtual reality project where I created and tested 3 different virtual reality keyboard layouts with 4 different control modalities (head pointer, hand pointer, touch control, and dwell time head pointer)"
+      },
+      {
+        "company": "Code Racing",
+        "title": "",
+        "link": "https://github.com/JorgeOchoaReyes/CodeRaceWPM", 
+        "years": " Technology: MongoDB, Express, React, Node.js",
+        "description": "A words per minute game with words being based on different languages, such as jsx, js, python, and c++. Scores can be entered upon completion of the minute typing phase."
+      }, 
+      {
+        "company": "Dota 2 Hero Archive",
+        "title": "",
+        "link": "https://github.com/JorgeOchoaReyes/Dota2_Hero_Info", 
+        "years": " Technology: React Native, Firebase",
+        "description": "Android app for the popular MOBA Dota 2 game, which allows you to review the attributes and lore of all 121 heroes, along with the items included in the game."
+      },
+      {
+        "company": "Computer Science Club Website",
+        "title": "",
+        "link": "https://github.com/cscifresnostate/ClubWebSite", 
+        "years": "Technology: React.js, Firebase, GitHub Pages",
+        "description": "Official website for the CSU Fresno Computer Science Club. Contains events information, projects created by the club, and information on the currecnt officers. "
+      }
+    ],
+    "research": [
+      {
+        "title": "Evaluation of a Tree-based Menu Virtual Keyboard in Fully Immersive Virtual Reality",
+        "tech": "Virtual Reality, Keyboards",
+        "abstract": "Results: There exist a significant difference between the two virtual keyboards (VK1: standard qwerty layout, VK2: tree-based menu layout), with VK1 taking less time per command ratio than VK2, but found no significant difference between the keyboards regarding workload and usability.",
+        "link": "https://drive.google.com/file/d/11QvCUTpY8Z9XPkNUV5ThBViH810UT0Sb/view?usp=sharing"
+      
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NASA Minds Artemis",
+        "category": "VR Keyboard Layouts and different control modalities.",
+        "image": "nasa.jpg",
+        "url": "https://github.com/JorgeOchoaReyes/NASA-MINDS-2021"
+      },
+      {
+        "title": "Code Race",
+        "category": "WPM Racing with different wrods from different programming languages.",
+        "image": "keyboard.jpg",
+        "url": "https://github.com/JorgeOchoaReyes/CodeRaceWPM"
+      },
+      {
+        "title": "Dota 2 Hero Archive",
+        "category": "Full data on all 121 dota Heroes for competitive dota 2 players.",
+        "image": "dota2.jpg",
+        "url": "https://github.com/JorgeOchoaReyes/Dota2_Hero_Info"
+      },       
+      {
+        "title": "Computer Science Club Website",
+        "category": "Official CSU Fresno Computer Science Website.",
+        "image": "cscilogo.png",
+        "url": "https://github.com/cscifresnostate/ClubWebSite"
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
