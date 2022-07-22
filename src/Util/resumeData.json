@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Jorge Ochoa-Reyes",
-    "occupation": "Student/Programer",
+    "occupation": "Developer",
     "description": " ",
     "image": "profilepic.jpg",
     "bio": "I enjoy programming and am excited to always learn new technologies! I am currently learning VR development in Unity with C# and hope to create a personal project using React, Graphql, URQL, Postgreql, Redis, and Nodejs.",
@@ -14,7 +14,7 @@
       "state": "California",
       "zip": "93705"
     },
-    "website": "http://www.timbakerdev.com", 
+    "website": "https://jorgeochoareyes.github.io/Resume/", 
     "github": "https://github.com/JorgeOchoaReyes",
     "resumedownload": "https://docs.google.com/document/d/1KAVRogLwFS-v2IGJgMDSVmDf7GiV0CaqmNRMOezEGZc/edit?usp=sharing"
   },
@@ -30,25 +30,25 @@
     ],
     "work": [
       {
+        "company": "Bytekitche/Noshery",
+        "title": "",
+        "link": "https://github.com/JorgeOchoaReyes/NASA-MINDS-2021", 
+        "years": " Technology: Firestore, Firebase Functions, AuthO React.js",
+        "description": "Worked towards devloping a in house built sales dashboard, a live-prep-dashboard for efficiency in the kitchen, and improve landing website for Noshery."
+      },
+      {
+        "company": "Resume Links",
+        "title": "",
+        "link": "https://github.com/JorgeOchoaReyes/ResumeLinks", 
+        "years": " Technology: Next.js, URQL, Graphql, Apollo, Typeorm, Postgresql, and Redis.",
+        "description": "Resumelinks is the "
+      }, 
+      {
         "company": "NASA Minds Artemis",
         "title": "",
         "link": "https://github.com/JorgeOchoaReyes/NASA-MINDS-2021", 
         "years": " Technology: Unity VR, C#",
         "description": "A virtual reality project where I created and tested 3 different virtual reality keyboard layouts with 4 different control modalities (head pointer, hand pointer, touch control, and dwell time head pointer)"
-      },
-      {
-        "company": "Code Racing",
-        "title": "",
-        "link": "https://github.com/JorgeOchoaReyes/CodeRaceWPM", 
-        "years": " Technology: MongoDB, Express, React, Node.js",
-        "description": "A words per minute game with words being based on different languages, such as jsx, js, python, and c++. Scores can be entered upon completion of the minute typing phase."
-      }, 
-      {
-        "company": "Dota 2 Hero Archive",
-        "title": "",
-        "link": "https://github.com/JorgeOchoaReyes/Dota2_Hero_Info", 
-        "years": " Technology: React Native, Firebase",
-        "description": "Android app for the popular MOBA Dota 2 game, which allows you to review the attributes and lore of all 121 heroes, along with the items included in the game."
       },
       {
         "company": "Computer Science Club Website",
@@ -78,17 +78,11 @@
         "url": "https://github.com/JorgeOchoaReyes/NASA-MINDS-2021"
       },
       {
-        "title": "Code Race",
-        "category": "WPM Racing with different wrods from different programming languages.",
+        "title": "ResumeLnks",
+        "category": "Short simple links for storing resumes.",
         "image": "keyboard.jpg",
-        "url": "https://github.com/JorgeOchoaReyes/CodeRaceWPM"
-      },
-      {
-        "title": "Dota 2 Hero Archive",
-        "category": "Full data on all 121 dota Heroes for competitive dota 2 players.",
-        "image": "dota2.jpg",
-        "url": "https://github.com/JorgeOchoaReyes/Dota2_Hero_Info"
-      },       
+        "url": "https://github.com/JorgeOchoaReyes/Resumelinks"
+      },     
       {
         "title": "Computer Science Club Website",
         "category": "Official CSU Fresno Computer Science Website.",
